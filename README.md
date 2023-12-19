@@ -5,7 +5,7 @@
 - 💼 I’m currently Doing <strong>Data Analysis</strong>
 - 📋 I've previously intern as a Web developer at Bitlanz_tech.
 - 🎒 I've done almost 2-3 internships in frontend primarily.
-- 👩🏻‍🏫 I love teaching students and have mentored across 1000+ students over various platforms. 
+- 👩🏻‍🏫 I love to share my knowledge  
 - 🧭 I love exploring and working both in frontend and Data related technologys.
 - 🎭 I love speaking at events and connecting with people.
 - 📫 How to reach me: Check social links below.
