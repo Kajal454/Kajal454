@@ -2,9 +2,9 @@
 
 ### :woman_technologist: About Me 
 - 👩🏻‍💻 Pronouns: She/Her
-- 💼 I’m currently Doing <strong>Python Development</strong>
-- 📋 I've previously intern as a Web developer at Bitlanz_tech.
-- 🎒 I've done almost 2-3 internships in frontend primarily.
+- 💼 I’m currently Doing <strong>JAVA Development</strong>
+- 📋 I've previously intern as a Software developer intern at Veras Retail.
+- 🎒 I've done almost 2-3 internships in backend primarily.
 - 👩🏻‍🏫 I love to share my knowledge  
 - 🧭 I love exploring and working both in frontend and Data related technologys.
 - 🎭 I love speaking at events and connecting with people.
@@ -21,7 +21,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongodb" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Nodejs" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" **alt="Git" width="40" height="40"/>
 
 </div>  
 
